@@ -11,7 +11,11 @@
     "react-dom": "^18.2.0",
     "react-redux": "^8.1.1",
     "react-router-dom": "^6.14.2",
+<<<<<<< HEAD
     "react-scripts": "^5.0.1",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> c85dde0c2bde5fa1b70f3b5ac102b8b6ce55f9ff
     "redux": "^4.2.1",
     "web-vitals": "^2.1.4"
   },
